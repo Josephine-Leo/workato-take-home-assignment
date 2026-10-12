@@ -1,0 +1,1 @@
+CREATE DATABASE workato_assignment_db;
